@@ -3,3 +3,10 @@ b=8
 print(a and b)
 print(a or b)
 print(not b)
+
+name="Alex"
+age=0
+if name=="Alex" and name=="John" and age>2:
+print("Hello",World!)
+else:
+print("Good!!Bye")
